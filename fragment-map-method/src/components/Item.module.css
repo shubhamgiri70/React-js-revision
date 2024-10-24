@@ -1,10 +1,13 @@
 .kg-item {
-    background-color: tomato !important;
-  }
-  
-  .kg-span {
-    font-weight: 600 !important;
-    font-size: 1.3rem;
-    color: aliceblue;
-  }
-  
+  background-color: rgb(253, 251, 251) !important;
+}
+
+.kg-span {
+  font-weight: 600 !important;
+  font-size: 1.3rem;
+  color: tomato;
+}
+
+.button {
+  float: right;
+}
